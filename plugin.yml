@@ -1,0 +1,9 @@
+name: SellSystem
+main: ayd1ndemirci\SellSystem\Main
+api: 5.0.0
+version: 1.0
+author: ayd1ndemirci
+
+permissions:
+  sell.permission:
+    default: true
